@@ -1,0 +1,2 @@
+C:\Users\flyin\Downloads\GitHub\HW\ComputerSystems\Project5_CUDA\x64\Release\Project5_CUDA.exe
+C:\Users\flyin\Downloads\GitHub\HW\ComputerSystemsArchitecture\Project5_CUDA\x64\Release\Project5_CUDA.exe
